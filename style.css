@@ -374,7 +374,7 @@ section{
 .project-card ul li {
     font-size: 0.95rem;
     line-height: 1.6;
-    color: #ffffff; 
+    color: #444;
 }
 /* Contact Section */
 .contact {
